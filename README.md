@@ -2,7 +2,7 @@
 
 This is an Exploratory Data Aanalysis of 2022's Stack Overflow Developer Survey (as at 1st September,2022), an annual and longest running survey of software developers (and anyone else who codes!) on Earth. I thought it would be a good idea to analyze information on Demographics, Programming abilities and experience, employment, and Stack Overflow Usage of respondents since developers frequently visit the website. [You can find the raw data & official analysis here](https://insights.stackoverflow.com/survey). This Notebook makes use of Python packages like Pandas (for Data Cleaning/Manipulation), MatPlotlib (for Data Exploration), and Seaborn(for some Data Visualisation)
 
-In the Jupyter Notebook, you will leearn how I carried out the following steps for the project:
+In the [Jupyter Notebook](https://github.com/addy-analytics/STACK-OVERFLOW-DEVELOPER-SURVEY-2022/blob/main/EDA-stack-overflow-developer-survey-2022.ipynb), you will learn how I carried out the following steps for the project:
 
 1. Import Libraries
 
@@ -15,7 +15,6 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
 5. Additional Insights
 
 ![content-process](https://user-images.githubusercontent.com/107724453/188286449-a7b272a1-a01b-470c-babd-51a249b85501.png)
-
 
 # Remarks
 Here are a few of the insights I came up with:
