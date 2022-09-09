@@ -19,7 +19,7 @@ In the [Jupyter Notebook](https://github.com/addy-analytics/STACK-OVERFLOW-DEVEL
 # Remarks
 Here are a few of the insights I came up with:
 
-* The survey appears to be a fair representation of the programming community generally based on the demographics of the survey respondents. However, it receives fewer answers from women and non-binary programmers as well as programmers in non-English speaking nations.
+* The survey appears to be a fair representation of the programming community generally based on the demographics of the survey respondents. However, it received fewer answers from women and non-binary programmers as well as programmers in non-English speaking nations.
 
 * Despite the fact that the majority of programmers are college graduates, it is impossible to tell from the survey if they graduated with a computer science degree. So learning to code or developing a profession in programming don't require a computer science degree. We also notice that a majority of programmers have online course certificate through Udemy, followed by Cousera and Codeacademy. This makes a positive statement that everyone can learn to code irrespective of the background as lots of credible learning website spring up every now and then.
 
